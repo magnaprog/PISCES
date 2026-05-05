@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata from this file."
+title: "PISCES GitHub Repo"
+authors:
+  - family-names: March
+    given-names: Alison J.
+  - family-names: Lee
+    given-names: Kevin
+preferred-citation:
+  type: conference-paper
+  title: "PISCES: Physics-Informed Convolutional Autoencoder for Solar Wind Anomaly Detection and Space Weather Early Warning"
+  authors:
+    - family-names: March
+      given-names: Alison J.
+    - family-names: Lee
+      given-names: Kevin
+  conference:
+    name: "NASA 5th Eddy Cross-Disciplinary Symposium"
+  year: 2026
